@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <title>DataAndBI</title>
-<link>http://localhost/DataAndBiBlogGenerator/public</link>
+<link>http://DataAndBI.com</link>
 <description>Blog related to the world of data and Business Intelligence revolving around it.</description>
 <language>en-us</language>
 <item>
@@ -10,7 +10,7 @@
 <description><![CDATA[<p>Data And BI is a blog about the world of Data and Business Intelligence that revolves around it. I will try to cover various aspects of the SQL Server and Business Intelligence tools and technologies.</p>
 <p>I invite to take this journey with me!
 Keep learning!</p>]]></description>
-<link>http://localhost/DataAndBiBlogGenerator/public/post/introducing-data-and-bi</link>
+<link>http://DataAndBI.com/post/introducing-data-and-bi</link>
 <pubDate>Sun, 03 Apr 2016 00:00:00 +0500</pubDate>
 </item>
 </channel>

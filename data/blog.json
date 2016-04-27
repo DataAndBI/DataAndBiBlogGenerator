@@ -1,6 +1,6 @@
 {
 	"settings": {
-		"url": "http:\/\/localhost\/DataAndBiBlogGenerator\/public",
+		"url": "http:\/\/DataAndBI.com",
 		"title": "DataAndBI",
 		"tagline": "Blog related to the world of data and Business Intelligence revolving around it.",
 		"author": "Navneet Sharma",
@@ -90,6 +90,6 @@
 			"categoryslug": "general"
 		}
 	],
-	"tagsCloud": "<a style=\"font-size: 12px\" class=\"tag_cloud\" href=\"http:\/\/localhost\/DataAndBiBlogGenerator\/public\/tag\/general\" title=\"1 total posts\" data-original-title=\"2 total posts\" data-toggle=\"tooltip\">General<\/a>\n",
-	"archives": "<ul class=\"archives list-group\"><li class=\"list-group-item archive_link\"><a href=\"http:\/\/localhost\/DataAndBiBlogGenerator\/public\/archive\/april-2016\">April 2016<\/a><\/li><\/ul>"
+	"tagsCloud": "<a style=\"font-size: 12px\" class=\"tag_cloud\" href=\"http:\/\/DataAndBI.com\/tag\/general\" title=\"1 total posts\" data-original-title=\"2 total posts\" data-toggle=\"tooltip\">General<\/a>\n",
+	"archives": "<ul class=\"archives list-group\"><li class=\"list-group-item archive_link\"><a href=\"http:\/\/DataAndBI.com\/archive\/april-2016\">April 2016<\/a><\/li><\/ul>"
 }

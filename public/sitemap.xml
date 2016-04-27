@@ -5,13 +5,13 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-<loc>http://localhost/DataAndBiBlogGenerator/public/post/introducing-data-and-bi/</loc>
+<loc>http://DataAndBI.com/post/introducing-data-and-bi/</loc>
 <lastmod>2016-04-03T00:00:00+05:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1.00</priority>
 </url>
 <url>
-<loc>http://localhost/DataAndBiBlogGenerator/public/page/about-me/</loc>
+<loc>http://DataAndBI.com/page/about-me/</loc>
 <changefreq>weekly</changefreq>
 <priority>1.00</priority>
 </url>
