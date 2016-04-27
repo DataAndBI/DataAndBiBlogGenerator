@@ -1,0 +1,95 @@
+{
+	"settings": {
+		"url": "http:\/\/localhost\/DataAndBiBlogGenerator\/public",
+		"title": "DataAndBI",
+		"tagline": "Blog related to the world of data and Business Intelligence revolving around it.",
+		"author": "Navneet Sharma",
+		"layout": "default",
+		"theme": "united.min.css",
+		"disqus": "dataandbi",
+		"analytics": "UA-75930502-1",
+		"only_titles": ""
+	},
+	"customValues": [
+
+	],
+	"pages": [
+		{
+			"title": "About Me",
+			"body": "<p><img src=\"http:\/\/DataAndBI.com\/images\/14617686645720d1d896333.png\" alt=\"Navneet Sharma\" \/><\/p>\n<p>I am Senior Technical Lead for Business Intelligence. I am passionate about data and related technologies and how you can use it to gain invaluable insights. You can find me on <a href=\"https:\/\/ca.linkedin.com\/in\/nsharma7\" target=\"_blank\">Linked In<\/a>.<\/p>\n<h3>My Belief:<\/h3>\n<p class=\"message\">\n  <b>Knowledge<\/b> is having the right answer. <b>Intelligence<\/b> is asking the right question.!\n<\/p>\n<h3>Various technologies which I focus on<\/h3>\n<ul>\n<li>SQL Server Integration Services<\/li>\n<li>SQL Server Reporting Services<\/li>\n<li>T-SQL Scripting<\/li>\n<li>Dot Net Application Development<\/li>\n<li>Cognos ICM<\/li>\n<\/ul>\n<h3>What I have been doing<\/h3>\n<p>I have been working with great companies like Infosys (2.7 yrs), <a href=\"http:\/\/thomsonreuters.com\" target=\"_blank\">Thomson Reuters (4 yrs)<\/a>, <a href=\"http:\/\/www.tcs.com\/\" target=\"_blank\">Tata Consultancy Services (&lt;1 yrs)<\/a> &amp; Polaris Consulting Services (present). <\/p>\n<p>I have been busy building enterprise solutions around:<\/p>\n<ul>\n<li>Azure Billing &amp; Chargeback<\/li>\n<li>Enterprise Datacenter Management solutions<\/li>\n<li>System Center customization solutions<\/li>\n<li>Windows Azure Pack customizations and resource providers<\/li>\n<\/ul>\n<p>Have questions or suggestions? Feel free to contact me on social media or on my email id at <a href=\"mailto:nkhurmi@gmail.com?subject=DataAndBI\">nkhurmi@gmail.com<\/a>.<\/p>\n<p>Thanks for reading!<\/p>",
+			"slug": "about-me"
+		}
+	],
+	"follow": {
+		"twitter": "",
+		"linkedin": "https:\/\/www.linkedin.com\/in\/nsharma7",
+		"google": "",
+		"facebook": "",
+		"github": "https:\/\/github.com\/DataAndBI"
+	},
+	"posts": [
+		{
+			"author": "Navneet Sharma",
+			"title": "Introducing Data And BI",
+			"postDate": "03-04-2016",
+			"tags": [
+				"General"
+			],
+			"category": "General",
+			"body": "<p>Data And BI is a blog about the world of Data and Business Intelligence that revolves around it. I will try to cover various aspects of the SQL Server and Business Intelligence tools and technologies.<\/p>\n<p>I invite to take this journey with me!\nKeep learning!<\/p>",
+			"addpost": "addpost",
+			"dated": "Apr 03, 2016",
+			"slug": "introducing-data-and-bi",
+			"categoryslug": "general",
+			"status": "publised",
+			"summary": "\n<p>Data And BI is a blog about the world of Data and Business Intelligence that revolves around it. I will try to cover various aspects of the SQL Server and Business Intelligence tools and technologies.<\/p>\n<p>I invite to take this journey with me!\nKeep learning!<\/p>...\n",
+			"showbody": "1"
+		}
+	],
+	"latestPosts": [
+		{
+			"author": "Navneet Sharma",
+			"title": "Introducing Data And BI",
+			"postDate": "03-04-2016",
+			"tags": [
+				"General"
+			],
+			"category": "General",
+			"body": "<p>Data And BI is a blog about the world of Data and Business Intelligence that revolves around it. I will try to cover various aspects of the SQL Server and Business Intelligence tools and technologies.<\/p>\n<p>I invite to take this journey with me!\nKeep learning!<\/p>",
+			"addpost": "addpost",
+			"dated": "Apr 03, 2016",
+			"slug": "introducing-data-and-bi",
+			"categoryslug": "general",
+			"status": "publised",
+			"summary": "\n<p>Data And BI is a blog about the world of Data and Business Intelligence that revolves around it. I will try to cover various aspects of the SQL Server and Business Intelligence tools and technologies.<\/p>\n<p>I invite to take this journey with me!\nKeep learning!<\/p>...\n",
+			"showbody": "1"
+		}
+	],
+	"homePosts": [
+		{
+			"author": "Navneet Sharma",
+			"title": "Introducing Data And BI",
+			"postDate": "03-04-2016",
+			"tags": [
+				"General"
+			],
+			"category": "General",
+			"body": "<p>Data And BI is a blog about the world of Data and Business Intelligence that revolves around it. I will try to cover various aspects of the SQL Server and Business Intelligence tools and technologies.<\/p>\n<p>I invite to take this journey with me!\nKeep learning!<\/p>",
+			"addpost": "addpost",
+			"dated": "Apr 03, 2016",
+			"slug": "introducing-data-and-bi",
+			"categoryslug": "general",
+			"status": "publised",
+			"summary": "\n<p>Data And BI is a blog about the world of Data and Business Intelligence that revolves around it. I will try to cover various aspects of the SQL Server and Business Intelligence tools and technologies.<\/p>\n<p>I invite to take this journey with me!\nKeep learning!<\/p>...\n",
+			"showbody": "1"
+		}
+	],
+	"categories": [
+		{
+			"category": "General",
+			"categoryslug": "general"
+		}
+	],
+	"tagsCloud": "<a style=\"font-size: 12px\" class=\"tag_cloud\" href=\"http:\/\/localhost\/DataAndBiBlogGenerator\/public\/tag\/general\" title=\"1 total posts\" data-original-title=\"2 total posts\" data-toggle=\"tooltip\">General<\/a>\n",
+	"archives": "<ul class=\"archives list-group\"><li class=\"list-group-item archive_link\"><a href=\"http:\/\/localhost\/DataAndBiBlogGenerator\/public\/archive\/april-2016\">April 2016<\/a><\/li><\/ul>"
+}

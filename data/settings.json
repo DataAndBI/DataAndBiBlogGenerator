@@ -1,0 +1,11 @@
+{
+	"url": "http:\/\/localhost\/DataAndBiBlogGenerator\/public",
+	"title": "DataAndBI",
+	"tagline": "Blog related to the world of data and Business Intelligence revolving around it.",
+	"author": "Navneet Sharma",
+	"layout": "default",
+	"theme": "united.min.css",
+	"disqus": "dataandbi",
+	"analytics": "UA-75930502-1",
+	"only_titles": ""
+}
